@@ -1,1 +1,1 @@
-# pyqt5
+# Create a calculator with PyQt5
